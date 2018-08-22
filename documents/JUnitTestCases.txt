@@ -1,0 +1,84 @@
+Positive
+	Large Number
+		addition
+		subtraction
+		multiplication
+		division
+		exponentiation
+		modulus
+		factorial (how to deal w/)
+	Small Number
+		addition
+		subtraction
+		multiplication
+		division
+		exponentiation
+		modulus
+		factorial (how to deal w/)
+Negative
+	Large Number
+		addition
+		subtraction
+		multiplication
+		division
+		exponentiation
+		modulus
+		factorial (how to deal w/)
+	Small Number
+		addition
+		subtraction
+		multiplication
+		division
+		exponentiation
+		modulus
+		factorial (how to deal w/)
+Zero
+	Large Number
+		addition
+		subtraction
+		multiplication
+		division
+		exponentiation
+		modulus
+		factorial (how to deal w/)
+	Small Number
+		addition
+		subtraction
+		multiplication
+		division
+		exponentiation
+		modulus
+		factorial (how to deal w/)
+		
+-
+
+Combinations of each for proper conversion
+
+
+o + b
+d + b
+h + b
+
+b + o
+d + o
+h + o
+
+b + d
+o + d
+h + d
+
+b + h
+o + h
+d + h
+
+-, *, /, ^, %, !
+
+-
+
+complex equations w many operators/ many operands
+too many/not enough operators/operands
+
+- CANT DO NEGATIVE FACTORIAL
+- CANT DO LARGE NUMBERS - if statement handling
+
+- TOO MANY/NOT ENOUGH OPERATORS/OPERANDS
